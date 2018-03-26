@@ -7,7 +7,7 @@ VS Code config
 
 # Prettier
 ```
-npm i -D eslint-config-prettier eslint-plugin-prettier
+npm i -D eslint-config-prettier eslint-plugin-prettier prettier
 ```
 
 # Eslint
@@ -19,3 +19,6 @@ or
 npm i -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
 
+```
+npm i -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-config-prettier eslint-plugin-prettier prettier
+```
